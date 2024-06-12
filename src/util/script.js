@@ -4,7 +4,7 @@
 
 let client_id = 'bdad6a3fd9154210928e311ee5bbf430';
 let client_secret = '69cd4ddd7b9d46e8b47894e9a656230e';
-let redirect_uri = 'http://127.0.0.1:5500/spotify/wrap.html';
+let redirect_uri = 'https://abun100.github.io/spotify_abun/';
 
 const AUTHORIZE = "https://accounts.spotify.com/authorize";
 const TOKEN = "https://accounts.spotify.com/api/token";
